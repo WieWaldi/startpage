@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/WieWaldi/.dotfiles/master/img/RZ-Amper_Logo_135x135.png" align="left" width="135px" height="135px" />
 
 ### startpage by WieWaldi
-> *My personal web browser startpage
+> *My personal Web Browser Startpage*
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
