@@ -7,7 +7,7 @@
 
 <br />
 
-![screenshot_vim.png](https://raw.githubusercontent.com/WieWaldi/.dotfiles/master/img/screenshot_startpage.png)
+![screenshot_startpage.png](https://raw.githubusercontent.com/WieWaldi/startpage/master/img/screenshot_startpage.png)
 ## Requirements  
  - Web Space
  - Web Browser
