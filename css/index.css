@@ -77,6 +77,7 @@ a:hover         { color: #dc322f; }
 
 ul.tree, ul.tree ul {  margin-left: 0; 
                   padding-left: 0;
+                  color: #586e75;
                   list-style: none; }
 
 ul.tree li      { margin: 0;
