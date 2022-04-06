@@ -10,6 +10,9 @@ a:link          { color: #6c71c4; }
 a:visited       { color: #6c71c4; }
 a:hover         { color: #dc322f; }
 
+.treehead       { color: #b58900; }
+.treeheadbr     { color: #6c71c4; }
+
 .base03         { color: #002b36; }
 .base02         { color: #073642; }
 .base01         { color: #586e75; }
@@ -44,12 +47,12 @@ a:hover         { color: #dc322f; }
                   box-shadow: 15px 15px 15px;
                   padding: 25px;
                   font-family: monospace;
-                  font-size: 14px; 
+                  font-size: 16px; 
                   vertical-align: top; }
 
 #inner-st       { display: inline-block; 
                   vertical-align: top; 
-                  width:30%; }
+                  width:49%; }
 
 #inner-nd       { float:left;
                   display: inline-block;
