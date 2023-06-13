@@ -8,7 +8,8 @@ body            { display: block;
 a               { color: #6c71c4; margin-right: 25px; text-decoration: none; }
 a:link          { color: #6c71c4; }
 a:visited       { color: #6c71c4; }
-a:hover         { color: #dc322f; }
+a:hover         { color: #dc322f;
+                  font-weight: bold; }
 
 .treehead       { color: #b58900; }
 .treeheadbr     { color: #6c71c4; }
@@ -45,14 +46,14 @@ a:hover         { color: #dc322f; }
                   width: 850px;
                   margin: 20px auto 20px;
                   box-shadow: 15px 15px 15px;
-                  padding: 25px;
+                  padding: 15px;
                   font-family: monospace;
-                  font-size: 16px; 
+                  font-size: 12px; 
                   vertical-align: top; }
 
 #inner-st       { display: inline-block; 
                   vertical-align: top; 
-                  width:49%; }
+                  width:32%; }
 
 #inner-nd       { float:left;
                   display: inline-block;
@@ -84,7 +85,7 @@ ul.tree, ul.tree ul {  margin-left: 0;
                   list-style: none; }
 
 ul.tree li      { margin: 0;
-                  font-weight: bold;
+                  font-weight: normal;
                   padding: 0; }
 
 /* level 1 */
